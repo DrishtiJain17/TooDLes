@@ -1,4 +1,4 @@
-# TooDLes 🌟
+# <img src="https://github.com/DrishtiJain17/TooDLes/blob/master/images/TooDLes.webp" width="45" alt="TooDLes"> TooDLes
 
 Welcome to TooDLes, your efficient to-do list app designed to help you tackle your tasks with ease!
 
