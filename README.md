@@ -19,7 +19,7 @@ Welcome to TooDLes, your efficient to-do list app designed to help you tackle yo
 ##### Clone this repo:
 
 ```
-git clone https://github.com/yourusername/TooDLes.git
+git clone https://github.com/DrishtiJain17/TooDLes.git
 ```
 
 ##### Open index.html in your favorite browser.
